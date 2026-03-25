@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello from main updated
+=======
+hello from branch
+>>>>>>> 9738ace (intial comiit in pract 3)
